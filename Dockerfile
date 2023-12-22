@@ -4,4 +4,4 @@ RUN npm update && npm install @slidev/cli @slidev/theme-default @slidev/theme-se
 ADD entrypoint.sh .
 RUN chmod +x entrypoint.sh
 EXPOSE 3030
-CMD ["entrypoint.sh"]
+CMD ["/slidev/entrypoint.sh"]
