@@ -1,6 +1,6 @@
 services:
   slidev:
-    image: docker pull ghcr.io/shervinamd/slidev-docker:latest
+    image: ghcr.io/shervinamd/slidev-docker:latest
     ports:
       - 3030:3030
     volumes:
