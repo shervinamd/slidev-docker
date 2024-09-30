@@ -4,4 +4,4 @@
 
 Creates a new Docker image every day at 8:30 AM UTC using the latest tag from the main project.
 
-**Latest Image version:** ![Latest Release](https://img.shields.io/github/v/release/slidevjs/slidev?label=latest)
+**Latest Image version:**  ![Latest Release](https://img.shields.io/github/v/release/slidevjs/slidev?label=latest)
