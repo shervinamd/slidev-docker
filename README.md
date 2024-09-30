@@ -2,4 +2,4 @@
 
 **Slidev on Docker!**
 
-Creates a new Docker image everyday on 12:30 :)
+Creates a new Docker image every day at 8:30 AM UTC using the latest tag from the main project.
